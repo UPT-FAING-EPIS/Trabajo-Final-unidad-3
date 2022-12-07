@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "637ef3cce394c06724260e95"
+  },
+  "dni": "74892212",
+  "nombre": "Rafael",
+  "apellido": "Valdez",
+  "estado": "A",
+  "clave": "123",
+  "Cargo_id": 1
+},{
+  "_id": {
+    "$oid": "637ef6778fe4ac006dfac8d2"
+  },
+  "dni": "123456789",
+  "nombre": "fabian",
+  "apellido": "loza",
+  "estado": "A",
+  "clave": "12345",
+  "Cargo_id": 2
+}]
